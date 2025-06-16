@@ -58,7 +58,16 @@ the following documentation is provided.
 Release Notes
 =============
 
+
 See https://docs.openstack.org/releasenotes/horizon/.
+
+Design Guidelines
+=================
+
+.. toctree::
+   :maxdepth: 1
+
+   design/modern_aws_uiux
 
 Information
 ===========
